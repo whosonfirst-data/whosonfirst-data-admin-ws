@@ -63,7 +63,7 @@
         "wk:page":"Vailima%2C_Samoa"
     },
     "wof:country":"WS",
-    "wof:geomhash":"cffeaffbacee1fbf74381bfbc8d155fd",
+    "wof:geomhash":"d7944f3b0bdec5585440bc7d1d1ff55f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -90,5 +90,5 @@
     -171.76126000000005,
     -13.86417
 ],
-  "geometry": {"coordinates":[-171.76126000000005,-13.86417],"type":"Point"}
+  "geometry": {"coordinates":[-171.76126,-13.86417],"type":"Point"}
 }

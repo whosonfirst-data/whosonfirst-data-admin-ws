@@ -53,7 +53,7 @@
         "wk:page":"Vailele"
     },
     "wof:country":"WS",
-    "wof:geomhash":"7a78b1d510331b5f87cf72966182d1bc",
+    "wof:geomhash":"ee3a9e4bac81a1e41c4574fad373dce0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,5 +78,5 @@
     -171.72316999999995,
     -13.84568
 ],
-  "geometry": {"coordinates":[-171.72316999999995,-13.84568],"type":"Point"}
+  "geometry": {"coordinates":[-171.72317,-13.84568],"type":"Point"}
 }

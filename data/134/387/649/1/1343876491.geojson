@@ -44,7 +44,7 @@
         "wk:page":"Tafaigata"
     },
     "wof:country":"WS",
-    "wof:geomhash":"e84119a89765858832779606a0fa179f",
+    "wof:geomhash":"26522864d12681c0345c9d6236dc5e90",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,5 +69,5 @@
     -171.83001000000004,
     -13.85089
 ],
-  "geometry": {"coordinates":[-171.83001000000004,-13.85089],"type":"Point"}
+  "geometry": {"coordinates":[-171.83001,-13.85089],"type":"Point"}
 }

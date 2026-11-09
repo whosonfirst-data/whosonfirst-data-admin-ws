@@ -44,7 +44,7 @@
         "wk:page":"Motootua"
     },
     "wof:country":"WS",
-    "wof:geomhash":"b5bba097f30b278384608df34547d5f9",
+    "wof:geomhash":"387dee53da9c6bd261e96eb6333bdd98",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,5 +69,5 @@
     -171.76286000000005,
     -13.84562
 ],
-  "geometry": {"coordinates":[-171.76286000000005,-13.84562],"type":"Point"}
+  "geometry": {"coordinates":[-171.76286,-13.84562],"type":"Point"}
 }

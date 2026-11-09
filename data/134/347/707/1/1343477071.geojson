@@ -40,7 +40,7 @@
         "gn:id":7106341
     },
     "wof:country":"WS",
-    "wof:geomhash":"6a815bce39740125d95e5d19e0aff317",
+    "wof:geomhash":"e3ea02fdf69b32dea85a5a3f44ae00a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,5 +65,5 @@
     -172.35228999999995,
     -13.75527
 ],
-  "geometry": {"coordinates":[-172.35228999999995,-13.75527],"type":"Point"}
+  "geometry": {"coordinates":[-172.35229,-13.75527],"type":"Point"}
 }
